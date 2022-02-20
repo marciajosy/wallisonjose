@@ -1,5 +1,6 @@
 ## Olá, eu sou Wallison José 👋
 </br>
+
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas no IFPE 
 - 💻 A procura do primeiro emprego como DEV 
 - 👨🏿‍💻 Pronomes: ele / dele
