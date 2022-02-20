@@ -5,8 +5,8 @@
 - 👨🏿‍💻 Pronomes: ele / dele
 </br>
 <div display = "flex ">
- <img height= 180px src ='https://github-readme-stats.vercel.app/api?username=wallisonjose&count_private=true&show_icons=true&show_icons=true&theme=tokyonight'>
- <img height= 180px  src ='https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonjose&repo=github-readme-stats&count_private=true&show_icons=true&show_icons=true&theme=tokyonight&layout=compact'>
+ <img height= 180px width= 400px src ='https://github-readme-stats.vercel.app/api?username=wallisonjose&count_private=true&show_icons=true&show_icons=true&theme=tokyonight'>
+ <img height= 180px width= 400px  src ='https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonjose&repo=github-readme-stats&count_private=true&show_icons=true&show_icons=true&theme=tokyonight&layout=compact'>
 </div>
 
 ### Tecnologias em desenvolvimento
