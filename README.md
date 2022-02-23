@@ -24,6 +24,7 @@
 
 <ul>
  <li><a href="https://wallisonjose.github.io/site-finans/" target="_blank">Layout site finans</a</li>
+  <li><a href="https://wallisonjose.github.io/app-cronometro/" target="_blank">app Cronômetro - JS</a</li>
 </ul>
 
 
