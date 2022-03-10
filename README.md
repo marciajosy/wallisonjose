@@ -2,7 +2,7 @@
 </br>
 
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas no IFPE 
-- 💻 A procura do primeiro emprego como DEV 
+- 💻 A procura do primeiro emprego como DEV Jr
 - 👨🏿‍💻 Pronomes: ele / dele
 </br>
 <div display = "flex ">
