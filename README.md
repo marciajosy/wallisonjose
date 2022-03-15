@@ -23,10 +23,10 @@
 ### Projetos 
 
 <ul>
- <li><a href="https://wallisonjose.github.io/site-finans/" target="_blank">Layout site finans</a</li>
- <li><a href="https://wallisonjose.github.io/app-cronometro/" target="_blank">app Cronômetro - JS</a</li>
+ <li><a href="https://wallisonjose.github.io/game-mata-mosquito/" target="_blank">game Mata Mosquto - JS</a</li>
  <li><a href="https://wallisonjose.github.io/app-lista-de-tarefas/" target="_blank">app Lista de Tarefas - JS</a</li>
- <li><a href="https://wallisonjose.github.io/game-mata-mosquito/" target="_blank">Game Mata Mosquto - JS</a</li>
+ <li><a href="https://wallisonjose.github.io/app-cronometro/" target="_blank">app Cronômetro - JS</a</li>
+ <li><a href="https://wallisonjose.github.io/site-finans/" target="_blank">Layout site finans - Bootstrap</a</li>
 </ul>
 
 
